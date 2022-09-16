@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignment section provides information about the assignments and
+  their solutions, to be undertaken during the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
